@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Nikhil Dodda
+## 👋 Hi there
 
 I am a passionate researcher and developer specializing in **AI/ML, Social Computing, Machine Learning Security, Deep Learning, Knowledge Representation, Data Science, Data Mining, and Algorithm Engineering**. My work focuses on building explainable, modular, and secure systems to advance the state-of-the-art in artificial intelligence.
 
