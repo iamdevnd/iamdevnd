@@ -39,8 +39,7 @@ The **ultimate structured memory engine for LLMs** — enabling persistence, exp
 ## 🌐 Connect With Me  
 📅 [Book time](https://app.cal.com/dnpro/)  
 🐦 [Bluesky](https://devnd.bsky.social)  
-💻 [Portfolio](#will update)  
-📂 [More Projects](https://github.com/iamdevnd)  
+💻 [Portfolio](#will update)   
 
 ---
 
