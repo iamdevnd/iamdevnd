@@ -1,43 +1,59 @@
-Hi, I'm a passionate researcher and developer working at the intersection of AI/ML, web systems, and cloud-native engineering.
+Hi, there
 
-I specialize in LLMs, Retrieval-Augmented Generation (RAG), ML Security, Social Computing, and Knowledge Representation, with hands-on expertise in cloud-native architectures (AWS, GCP, Docker, Kubernetes) and full-stack development (Next.js, React, Django REST, FastAPI, Spring Boot).
+🔹 Applied AI & Full-Stack Engineer | Passionate about building intelligent, scalable, and secure systems across AI, cloud, and web.
 
-My mission is to build explainable, modular, and secure systems that advance AI while staying production-ready.
+I work at the intersection of AI research and production engineering — transforming cutting-edge models into reliable, explainable, and high-performance systems. My expertise spans:
+
+AI/ML → LLMs, RAG pipelines, FAISS, Transformers, PyTorch, TensorFlow
+
+Backend & Web → FastAPI, Django REST, Spring Boot, Next.js, React
+
+Cloud & DevOps → AWS, GCP, Docker, Kubernetes, Terraform, CI/CD
+
+Security & Data → OAuth2/JWT, SQL optimization, observability (OpenTelemetry)
 
 🚀 Current Focus
+ContextCache
 
-ContextCache – The Ultimate Structured Memory Engine for LLMs
-Persistent, explainable, modular AI memory with graphs, ranking, and full local control.
+The ultimate structured memory engine for LLMs — designed to bring persistence, explainability, and modular control to large language models.
 
-Structured knowledge graphs + FAISS vector search
+Hybrid retrieval: FAISS + PageRank + time-decay
 
-PageRank + time-decay scoring for smarter recall
+Graph-based memory with reasoning endpoints
 
-JWT-secured APIs and Typer CLI
+JWT-secured APIs + Typer CLI for management
 
-Privacy-first design with local persistence
-👉 Explore: github.com/iamdevnd/contextcache
-
-🧑‍💻 Research & Engineering Interests
-
-Social Computing: Modeling and analyzing human interactions with AI.
-
-ML & DL Security: Hardening models against adversarial and real-world attacks.
-
-Knowledge Representation: Building reasoning systems over structured graphs.
-
-Cloud & DevOps: Designing high-availability microservices with CI/CD, observability, and automation.
-
-Web & Mobile Systems: Scalable apps with Next.js, React, and 5+ years of mobile development exploration.
+Privacy-first, local persistence
 
 🌟 Featured Projects
 
-ContextCache – Open-source structured memory engine for LLMs
+🔐 NDSecure
+ — E2E encrypted, self-destructing note-sharing app (React + Django REST + Docker)
 
-NDSecure – Encrypted self-destructing note-sharing web app
+🛡 KavachGuard
+ — Real-time NSFW browser content detection with TensorFlow.js
 
-KavachGuard – Real-time browser NSFW content detection
+📊 Sentiment-Analytics
+ — Streaming retail intelligence with PySpark + FP-Growth
 
-Sentiment-Analytics – PySpark-powered retail intelligence pipeline
+🧬 UMLS Detector
+ — Biomedical ontology integrity checker with NetworkX
 
-UMLS Detector – Biomedical ontology inconsistency detection
+🤖 Transformer Robustness Benchmark
+ — Stress-testing DistilBERT under adversarial attacks
+
+🧑‍💻 Research & Technical Interests
+
+Social Computing → Modeling human interactions with AI
+
+ML Security → Defending models against adversarial threats
+
+Knowledge Representation → Structured reasoning with graphs
+
+Cloud & Distributed Systems → High-availability, low-latency architectures
+
+Dev Productivity → Vibe coding with Copilot, Codex, Claude
+
+📫 Let’s Connect
+
+🔗 Portfolio
