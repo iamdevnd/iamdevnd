@@ -1,36 +1,43 @@
-## 👋 Hi there
+Hi, I'm a passionate researcher and developer working at the intersection of AI/ML, web systems, and cloud-native engineering.
 
-I am a passionate researcher and developer specializing in **AI/ML, Social Computing, Machine Learning Security, Deep Learning, Knowledge Representation, Data Science, Data Mining, and Algorithm Engineering**. My work focuses on building explainable, modular, and secure systems to advance the state-of-the-art in artificial intelligence.
+I specialize in LLMs, Retrieval-Augmented Generation (RAG), ML Security, Social Computing, and Knowledge Representation, with hands-on expertise in cloud-native architectures (AWS, GCP, Docker, Kubernetes) and full-stack development (Next.js, React, Django REST, FastAPI, Spring Boot).
 
-## 🚀 Current Focus
+My mission is to build explainable, modular, and secure systems that advance AI while staying production-ready.
 
-### **ContextCache – The Ultimate Structured Memory Engine for LLMs**
+🚀 Current Focus
+
+ContextCache – The Ultimate Structured Memory Engine for LLMs
 Persistent, explainable, modular AI memory with graphs, ranking, and full local control.
 
-_ContextCache_ is my latest open-source initiative, designed to supercharge large language models with structured, persistent, and explainable memory. Harnessing graph-based storage, ranking algorithms, and modular architecture, ContextCache enables full local control and transparency—empowering developers to build smarter, safer, and more reliable AI systems.
+Structured knowledge graphs + FAISS vector search
 
-- **Key Features:**  
-  - Structured memory graphs for LLMs  
-  - Persistent and local storage  
-  - Explainable and modular design  
-  - Advanced ranking and retrieval  
-  - Privacy and security by design
+PageRank + time-decay scoring for smarter recall
 
-[👉 Explore ContextCache](https://github.com/doddanikhil/ContextCache)
+JWT-secured APIs and Typer CLI
 
----
+Privacy-first design with local persistence
+👉 Explore: github.com/iamdevnd/contextcache
 
-## 🧑‍💻 Research & Technical Interests
+🧑‍💻 Research & Engineering Interests
 
-- **Social Computing**: Analyzing and modeling social interactions with AI.
-- **Machine Learning & Deep Learning Security**: Creating robust models and defending against adversarial threats.
-- **Knowledge Representation Learning**: Building systems that understand and organize information.
-- **Data Science & Data Mining**: Extracting actionable insights from complex data.
+Social Computing: Modeling and analyzing human interactions with AI.
 
----
+ML & DL Security: Hardening models against adversarial and real-world attacks.
 
-## 🌟 Featured Projects
+Knowledge Representation: Building reasoning systems over structured graphs.
 
-- [ContextCache](https://github.com/doddanikhil/ContextCache)  
-  _Structured memory engine for LLMs_
+Cloud & DevOps: Designing high-availability microservices with CI/CD, observability, and automation.
 
+Web & Mobile Systems: Scalable apps with Next.js, React, and 5+ years of mobile development exploration.
+
+🌟 Featured Projects
+
+ContextCache – Open-source structured memory engine for LLMs
+
+NDSecure – Encrypted self-destructing note-sharing web app
+
+KavachGuard – Real-time browser NSFW content detection
+
+Sentiment-Analytics – PySpark-powered retail intelligence pipeline
+
+UMLS Detector – Biomedical ontology inconsistency detection
