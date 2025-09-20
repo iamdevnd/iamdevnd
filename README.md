@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Nikhil (devnd)  
+# 👋 Hey, I’m devnd 
 
 🚀 **Applied AI & Full-Stack Engineer**  
 I build **intelligent, scalable, and secure systems** that bridge **AI, cloud, APIs, and web**.  
@@ -39,7 +39,7 @@ The **ultimate structured memory engine for LLMs** — enabling persistence, exp
 ## 🌐 Connect With Me  
 📅 [Book time](https://app.cal.com/dnpro/)  
 🐦 [Bluesky](https://devnd.bsky.social)  
-💻 [Portfolio](#will update)   
+💻 [Portfolio](https://iamdevnd.dev)   
 
 ---
 
